@@ -1,0 +1,161 @@
+{
+  "updated": "2026-09-28",
+  "languages": {
+    "en": [
+      {
+        "title": "Unofficial fan app",
+        "body": "Companion for GW2 is an unofficial app made by a fan. It is not made, endorsed, sponsored or supported by ArenaNet, LLC or NCSOFT Corporation, and it is not affiliated with them in any way. It does not work with, or on behalf of, ArenaNet: it only reads the public Guild Wars 2 API that ArenaNet offers to everyone.",
+        "highlight": true
+      },
+      {
+        "title": "Trademarks and game content",
+        "body": "©ArenaNet, LLC. All rights reserved. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2 and all associated logos, designs and composite marks are trademarks or registered trademarks of NCSOFT Corporation. The game images and data shown in the app belong to ArenaNet and are used under ArenaNet’s content terms of use. All other trademarks belong to their respective owners."
+      },
+      {
+        "title": "Your API key",
+        "body": "Your API key is stored only on this device, in the app’s private storage, and is left out of backups and device transfers. It is sent only to the official Guild Wars 2 API (api.guildwars2.com), to read the account information its permissions allow. It is never sent to the developer or anyone else. Remove the account in the app to delete the key, and revoke it at any time at account.arena.net."
+      },
+      {
+        "title": "What the app collects",
+        "body": "Nothing. There is no sign-up, no analytics, no advertising, no tracking and no crash reporting. Your watchlists, goals, settings and pictures stay on this device and are deleted when you uninstall the app."
+      },
+      {
+        "title": "Services the app connects to",
+        "body": "Only ArenaNet’s own services (the Guild Wars 2 API, and its image and map-tile servers) and the official Guild Wars 2 Wiki, for pictures and some game data. As with any website, these services see your device’s IP address when the app contacts them, under their own privacy policies."
+      },
+      {
+        "title": "Permissions",
+        "body": "Internet, to reach the services above. Camera, only while you scan an API key’s QR code: the scan happens on the device and the image is not kept or sent anywhere. Notifications, exact alarms and full-screen alerts, for the reminders and event alarms you turn on. Starting at boot, to set your reminders again after a restart. Pictures you choose for an avatar or a character are copied into the app’s private storage, and a scene is saved to your gallery only when you export it."
+      },
+      {
+        "title": "Support purchase",
+        "body": "The optional one-time support purchase is handled entirely by Google Play. The developer never sees your payment details: the app only learns whether the purchase is owned, to unlock the supporters’ themes."
+      },
+      {
+        "title": "Children",
+        "body": "The app is not directed at children under 13, and it collects no personal information from anyone."
+      },
+      {
+        "title": "Changes and contact",
+        "body": "Any change to this policy is published on the policy page, with its date. Questions can be raised as an issue on the policy’s GitHub page."
+      }
+    ],
+    "de": [
+      {
+        "title": "Inoffizielle Fan-App",
+        "body": "Begleiter für GW2 ist eine inoffizielle App eines Fans. Sie wird weder von ArenaNet, LLC noch von NCSOFT Corporation erstellt, empfohlen, gesponsert oder unterstützt und ist in keiner Weise mit ihnen verbunden. Sie arbeitet nicht mit ArenaNet oder in deren Auftrag: Sie liest nur die öffentliche Guild-Wars-2-API, die ArenaNet allen anbietet.",
+        "highlight": true
+      },
+      {
+        "title": "Marken und Spielinhalte",
+        "body": "©ArenaNet, LLC. Alle Rechte vorbehalten. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2 und alle zugehörigen Logos, Designs und Wort-Bild-Marken sind Marken oder eingetragene Marken der NCSOFT Corporation. Die in der App gezeigten Spielbilder und -daten gehören ArenaNet und werden gemäß den Inhaltsnutzungsbedingungen von ArenaNet verwendet. Alle anderen Marken gehören ihren jeweiligen Inhabern."
+      },
+      {
+        "title": "Dein API-Schlüssel",
+        "body": "Dein API-Schlüssel wird nur auf diesem Gerät im privaten Speicher der App abgelegt und ist von Sicherungen und Geräteübertragungen ausgenommen. Er wird nur an die offizielle Guild-Wars-2-API (api.guildwars2.com) gesendet, um die Kontodaten zu lesen, die seine Berechtigungen erlauben. Er wird nie an den Entwickler oder sonst jemanden gesendet. Entferne das Konto in der App, um den Schlüssel zu löschen, und widerrufe ihn jederzeit unter account.arena.net."
+      },
+      {
+        "title": "Was die App erfasst",
+        "body": "Nichts. Es gibt keine Registrierung, keine Analyse, keine Werbung, kein Tracking und keine Absturzberichte. Deine Beobachtungslisten, Ziele, Einstellungen und Bilder bleiben auf diesem Gerät und werden beim Deinstallieren der App gelöscht."
+      },
+      {
+        "title": "Dienste, mit denen die App sich verbindet",
+        "body": "Nur die eigenen Dienste von ArenaNet (die Guild-Wars-2-API sowie deren Bild- und Kartenkachel-Server) und das offizielle Guild-Wars-2-Wiki, für Bilder und einige Spieldaten. Wie bei jeder Website sehen diese Dienste die IP-Adresse deines Geräts, wenn die App sie aufruft, gemäß ihren eigenen Datenschutzrichtlinien."
+      },
+      {
+        "title": "Berechtigungen",
+        "body": "Internet, um die oben genannten Dienste zu erreichen. Kamera, nur während du den QR-Code eines API-Schlüssels scannst: Der Scan erfolgt auf dem Gerät, und das Bild wird weder gespeichert noch gesendet. Benachrichtigungen, exakte Wecker und Vollbildhinweise, für die Erinnerungen und Event-Wecker, die du einschaltest. Start beim Hochfahren, um deine Erinnerungen nach einem Neustart erneut zu stellen. Bilder, die du für einen Avatar oder Charakter wählst, werden in den privaten Speicher der App kopiert, und eine Szene wird nur beim Exportieren in deiner Galerie gespeichert."
+      },
+      {
+        "title": "Unterstützungskauf",
+        "body": "Der optionale einmalige Unterstützungskauf wird vollständig über Google Play abgewickelt. Der Entwickler sieht deine Zahlungsdaten nie: Die App erfährt nur, ob der Kauf besteht, um die Unterstützer-Themen freizuschalten."
+      },
+      {
+        "title": "Kinder",
+        "body": "Die App richtet sich nicht an Kinder unter 13 Jahren und erfasst von niemandem personenbezogene Daten."
+      },
+      {
+        "title": "Änderungen und Kontakt",
+        "body": "Jede Änderung dieser Richtlinie wird mit Datum auf der Richtlinienseite veröffentlicht. Fragen kannst du als Issue auf der GitHub-Seite der Richtlinie stellen."
+      }
+    ],
+    "fr": [
+      {
+        "title": "Application non officielle de fan",
+        "body": "Compagnon pour GW2 est une application non officielle créée par un fan. Elle n’est ni créée, ni approuvée, ni sponsorisée, ni soutenue par ArenaNet, LLC ou NCSOFT Corporation, et n’a aucun lien avec elles. Elle ne travaille pas avec ArenaNet ni pour son compte : elle lit seulement l’API publique de Guild Wars 2 qu’ArenaNet propose à tous.",
+        "highlight": true
+      },
+      {
+        "title": "Marques et contenu du jeu",
+        "body": "©ArenaNet, LLC. Tous droits réservés. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2 ainsi que tous les logos, designs et marques composites associés sont des marques commerciales ou déposées de NCSOFT Corporation. Les images et données du jeu affichées dans l’application appartiennent à ArenaNet et sont utilisées selon ses conditions d’utilisation du contenu. Toutes les autres marques appartiennent à leurs propriétaires respectifs."
+      },
+      {
+        "title": "Votre clé d’API",
+        "body": "Votre clé d’API est stockée uniquement sur cet appareil, dans l’espace privé de l’application, et elle est exclue des sauvegardes et des transferts d’appareil. Elle n’est envoyée qu’à l’API officielle de Guild Wars 2 (api.guildwars2.com), pour lire les données de compte que ses autorisations permettent. Elle n’est jamais envoyée au développeur ni à personne d’autre. Retirez le compte dans l’application pour supprimer la clé, et révoquez-la à tout moment sur account.arena.net."
+      },
+      {
+        "title": "Ce que l’application collecte",
+        "body": "Rien. Il n’y a ni inscription, ni statistiques d’utilisation, ni publicité, ni pistage, ni rapports de plantage. Vos listes de suivi, objectifs, réglages et images restent sur cet appareil et sont supprimés quand vous désinstallez l’application."
+      },
+      {
+        "title": "Services auxquels l’application se connecte",
+        "body": "Uniquement les services d’ArenaNet (l’API de Guild Wars 2 et ses serveurs d’images et de tuiles de carte) et le wiki officiel de Guild Wars 2, pour des images et certaines données du jeu. Comme pour tout site web, ces services voient l’adresse IP de votre appareil quand l’application les contacte, selon leurs propres politiques de confidentialité."
+      },
+      {
+        "title": "Autorisations",
+        "body": "Internet, pour joindre les services ci-dessus. Caméra, uniquement pendant que vous scannez le QR code d’une clé d’API : l’analyse se fait sur l’appareil et l’image n’est ni conservée ni envoyée. Notifications, alarmes exactes et alertes plein écran, pour les rappels et alarmes d’événements que vous activez. Lancement au démarrage, pour reprogrammer vos rappels après un redémarrage. Les images choisies pour un avatar ou un personnage sont copiées dans l’espace privé de l’application, et une scène n’est enregistrée dans votre galerie que lorsque vous l’exportez."
+      },
+      {
+        "title": "Achat de soutien",
+        "body": "L’achat de soutien unique et facultatif est entièrement géré par Google Play. Le développeur ne voit jamais vos informations de paiement : l’application sait seulement si l’achat est possédé, pour débloquer les thèmes des soutiens."
+      },
+      {
+        "title": "Enfants",
+        "body": "L’application ne s’adresse pas aux enfants de moins de 13 ans et ne collecte aucune donnée personnelle, de qui que ce soit."
+      },
+      {
+        "title": "Modifications et contact",
+        "body": "Toute modification de cette politique est publiée sur sa page, avec sa date. Les questions peuvent être posées en ouvrant un ticket sur la page GitHub de la politique."
+      }
+    ],
+    "es": [
+      {
+        "title": "App no oficial hecha por fans",
+        "body": "Compañero para GW2 es una app no oficial hecha por un fan. No está creada, respaldada, patrocinada ni apoyada por ArenaNet, LLC ni por NCSOFT Corporation, y no tiene ninguna relación con ellas. No trabaja con ArenaNet ni en su nombre: solo lee la API pública de Guild Wars 2 que ArenaNet ofrece a todos.",
+        "highlight": true
+      },
+      {
+        "title": "Marcas y contenido del juego",
+        "body": "©ArenaNet, LLC. Todos los derechos reservados. NCSOFT, ArenaNet, Guild Wars, Guild Wars 2, GW2 y todos los logotipos, diseños y marcas compuestas asociados son marcas comerciales o marcas registradas de NCSOFT Corporation. Las imágenes y los datos del juego que muestra la app pertenecen a ArenaNet y se usan conforme a sus condiciones de uso de contenido. Las demás marcas pertenecen a sus respectivos propietarios."
+      },
+      {
+        "title": "Tu clave de API",
+        "body": "Tu clave de API se guarda solo en este dispositivo, en el almacenamiento privado de la app, y queda fuera de las copias de seguridad y transferencias. Solo se envía a la API oficial de Guild Wars 2 (api.guildwars2.com) para leer los datos de la cuenta que permiten sus permisos. Nunca se envía al desarrollador ni a nadie más. Quita la cuenta en la app para borrar la clave, y revócala cuando quieras en account.arena.net."
+      },
+      {
+        "title": "Qué recoge la app",
+        "body": "Nada. No hay registro, ni analíticas, ni anuncios, ni rastreo, ni informes de fallos. Tus listas de seguimiento, objetivos, ajustes e imágenes se quedan en este dispositivo y se borran al desinstalar la app."
+      },
+      {
+        "title": "Servicios a los que se conecta la app",
+        "body": "Solo los servicios de ArenaNet (la API de Guild Wars 2 y sus servidores de imágenes y de mapas) y la wiki oficial de Guild Wars 2, para imágenes y algunos datos del juego. Como con cualquier web, estos servicios ven la dirección IP de tu dispositivo cuando la app los contacta, según sus propias políticas de privacidad."
+      },
+      {
+        "title": "Permisos",
+        "body": "Internet, para llegar a los servicios de arriba. Cámara, solo mientras escaneas el código QR de una clave de API: el escaneo se hace en el dispositivo y la imagen no se guarda ni se envía. Notificaciones, alarmas exactas y avisos a pantalla completa, para los recordatorios y alarmas de eventos que actives. Inicio al arrancar, para volver a programar tus recordatorios tras reiniciar. Las imágenes que eliges para un avatar o un personaje se copian al almacenamiento privado de la app, y una escena solo se guarda en tu galería cuando la exportas."
+      },
+      {
+        "title": "Compra de apoyo",
+        "body": "La compra de apoyo única y opcional la gestiona por completo Google Play. El desarrollador nunca ve tus datos de pago: la app solo sabe si la compra está hecha, para desbloquear los temas para quienes apoyan."
+      },
+      {
+        "title": "Menores",
+        "body": "La app no está dirigida a menores de 13 años y no recoge datos personales de nadie."
+      },
+      {
+        "title": "Cambios y contacto",
+        "body": "Cualquier cambio en esta política se publica en su página, con su fecha. Puedes hacer preguntas abriendo una incidencia en la página de GitHub de la política."
+      }
+    ]
+  }
+}
